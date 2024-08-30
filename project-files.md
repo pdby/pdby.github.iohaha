@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Project Files
-description: This is Project Files page
+description: Download all my performed Project Files. Use Ctrl / CMD + F to search on the page!
 ---
 
 ## Welcome to Poject Files page
