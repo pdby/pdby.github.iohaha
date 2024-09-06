@@ -1,3 +1,9 @@
+---
+layout: default
+title: PadBoz
+description: Download all my performed Project Files. Use Ctrl / CMD + F to search on the page!
+---
+
 # Welcome to PadBoy’s website!
 
 ![padboy_banner](assets/banner.jpg)
