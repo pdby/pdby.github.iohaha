@@ -1,7 +1,7 @@
 ---
 layout: default
-title: PadBoz
-description: Download all my performed Project Files. Use Ctrl / CMD + F to search on the page!
+title: PadBoy
+description: _LAUNCHPADDING SINCE 2018_
 ---
 
 # Welcome to PadBoy’s website!
