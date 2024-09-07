@@ -1,10 +1,8 @@
 ---
 layout: default
 title: PadBoy
-description: _LAUNCHPADDING SINCE 2018_
+description: LAUNCHPADDING SINCE 2018
 ---
-
-# Welcome to PadBoy’s website!
 
 ![padboy_banner](assets/banner.jpg)
 
