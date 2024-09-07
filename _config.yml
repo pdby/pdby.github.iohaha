@@ -2,7 +2,7 @@ remote_theme: lewismiddleton/cayman-dark
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: PadBoy
-description: Welcome to mz launchpadding website$
+description: PadBoy
 show_downloads: true
 github:
   zip_url: https://pdby.github.io/project-files.html
