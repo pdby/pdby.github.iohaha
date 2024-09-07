@@ -6,7 +6,7 @@ description: Download all my performed Project Files. Use Ctrl / CMD + F to sear
 
 # Latest Project File
 
-### Dirty Palm - Freakshow (feat. LexBlaze)
+### **Dirty Palm - Freakshow (feat. LexBlaze**)
 ![YouTube Thumbnail](https://i.ytimg.com/vi/5ufVj8ipqeo/maxresdefault.jpg)
 
 
